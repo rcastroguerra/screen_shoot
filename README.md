@@ -12,3 +12,6 @@ git add .
 git commit -m "Subiendo todo el contenido inicial del curso"
 
 git push
+
+
+https://github.com/UB-Mannheim/tesseract/wiki
